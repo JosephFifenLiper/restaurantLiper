@@ -1,0 +1,31 @@
+.header{
+    background: gray;
+    padding: 10px;
+
+}
+.main{
+    background: lightgray;
+    padding:29px;
+
+}
+.footer{
+    background: gray;
+    padding:10px, 20px;
+
+}
+ 
+.header img{
+    width:100%;
+    
+}
+body{
+    margin: 0;
+    line-height: 1.5;
+}
+.header-nav{
+    margin: 20px 0;
+    
+}
+.header-nav a{
+    padding: 20px;
+}
